@@ -13,7 +13,4 @@ Meu objetivo é usar este espaço para praticar lógica de programação, manipu
 - Resolver algoritmos simples (ex: ordenação, busca)  
 - Validar meu aprendizado com testes básicos
 
----
-
-## 📁 Estrutura do Repositório
 
